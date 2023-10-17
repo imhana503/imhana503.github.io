@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/imhana503.github.io/portfolioApp/static/css/main.761c2cce.css",
-    "main.js": "/imhana503.github.io/portfolioApp/static/js/main.f53e4afe.js",
-    "index.html": "/imhana503.github.io/portfolioApp/index.html",
-    "main.761c2cce.css.map": "/imhana503.github.io/portfolioApp/static/css/main.761c2cce.css.map",
-    "main.f53e4afe.js.map": "/imhana503.github.io/portfolioApp/static/js/main.f53e4afe.js.map"
+    "main.css": "/imhana503.github.io/static/css/main.761c2cce.css",
+    "main.js": "/imhana503.github.io/static/js/main.0e996b01.js",
+    "index.html": "/imhana503.github.io/index.html",
+    "main.761c2cce.css.map": "/imhana503.github.io/static/css/main.761c2cce.css.map",
+    "main.0e996b01.js.map": "/imhana503.github.io/static/js/main.0e996b01.js.map"
   },
   "entrypoints": [
     "static/css/main.761c2cce.css",
-    "static/js/main.f53e4afe.js"
+    "static/js/main.0e996b01.js"
   ]
 }
